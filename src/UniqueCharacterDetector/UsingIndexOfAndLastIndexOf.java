@@ -1,4 +1,4 @@
-package Questions.UniqueCharacterDetector;
+package UniqueCharacterDetector;
 
 public class UsingIndexOfAndLastIndexOf {
 
